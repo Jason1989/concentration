@@ -71,14 +71,15 @@
                     </view>
                     <connections>
                         <outlet property="flipCountLabel" destination="gjr-X3-ZIJ" id="HF4-Tn-gAw"/>
-                        <outletCollection property="cardButtons" destination="Goj-e0-pzE" collectionClass="NSMutableArray" id="6Ap-0d-VR2"/>
-                        <outletCollection property="cardButtons" destination="nhN-pQ-PQE" collectionClass="NSMutableArray" id="Qlj-eY-h9c"/>
-                        <outletCollection property="cardButtons" destination="UM8-FN-Vs2" collectionClass="NSMutableArray" id="rvJ-61-Q7l"/>
+                        <outletCollection property="cardButtons" destination="Goj-e0-pzE" collectionClass="NSMutableArray" id="EYT-fo-FVI"/>
+                        <outletCollection property="cardButtons" destination="nhN-pQ-PQE" collectionClass="NSMutableArray" id="wmB-Tj-uJc"/>
+                        <outletCollection property="cardButtons" destination="UM8-FN-Vs2" collectionClass="NSMutableArray" id="qYx-al-tjC"/>
+                        <outletCollection property="cardButtons" destination="5GT-Tr-7sB" collectionClass="NSMutableArray" id="fxi-NA-6gp"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="100" y="248"/>
+            <point key="canvasLocation" x="136.80000000000001" y="132.26600985221674"/>
         </scene>
     </scenes>
 </document>
